@@ -75,6 +75,13 @@ body {
   background-color: #3700b3;
 }
 
+/* Initial Message */
+.initial-message {
+  color: #999;
+  font-size: 1.2rem;
+  margin-top: 20px;
+}
+
 /* Weather Info */
 .city-name {
   font-size: 1.8rem;
